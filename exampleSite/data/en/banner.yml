@@ -8,5 +8,5 @@ banner:
   content: Sometimes our target make us !
   button:
     enable: true
-    label: Explore Us
+    label: Explore My way
     link: "#services"
