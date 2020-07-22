@@ -5,7 +5,9 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: My way to get a job in NETGURU
-  content: Sometimes our target make us !
+  content: |-
+    Sometimes our target make our life.
+    In Python we trust!
   button:
     enable: true
     label: Explore My way
