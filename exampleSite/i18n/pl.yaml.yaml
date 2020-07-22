@@ -1,8 +1,8 @@
 ---
 - id: blogTitle
   translation: Tytul bloga
-- id: Zobacz więcej
-  translation: Read more
+- id: Read more
+  translation: Zobacz więcej
 - id: viewAllPost
   translation: View All Post
 - id: share
