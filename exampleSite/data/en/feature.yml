@@ -3,14 +3,12 @@ feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: I am not beginer - I am newbie
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  title: I am not beginer - I am just try to change something in my life
+  content: And I not newbie in this area. Its looked as "Back to the future"
   feature_item:
-  - title: SEO Optimized
+  - title: Have expirience with make internet
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: About 10 websites in an last 15 years.
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
