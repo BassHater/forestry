@@ -15,7 +15,8 @@ skill:
     percent: 70%
   - name: 'CMS: SSR with MODx, Drupal, Wordpress (HUGO, Grav). '
     percent: 80%
-  - name: IOS Development
+  - name: 'SEO: Keyword planing, Semantic, Analyzing (Google Analytics, Yandex Metrics,
+      SimilarWeb, Ahref)'
     percent: 95%
   - name: Android Development
     percent: 75%
