@@ -13,7 +13,7 @@ skill:
     percent: 90%
   - name: 'Hosting: Debian based Distros (Begin with LAMP and LEMP in last 10 years)'
     percent: 70%
-  - name: Design
+  - name: 'CMS: SSR with MODx, Drupal, Wordpress (HUGO, Grav). '
     percent: 80%
   - name: IOS Development
     percent: 95%
