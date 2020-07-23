@@ -1,6 +1,6 @@
 ---
 feature:
-  enable: true
+  enable: false
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
   title: I am not beginer - I am just try to change something in my life
