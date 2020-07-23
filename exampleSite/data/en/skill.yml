@@ -11,7 +11,7 @@ skill:
   skill_item:
   - name: 'Design: Corel, Photoshop. (Not Genius, but I know this tool)'
     percent: 90%
-  - name: 'Linux: Debian based Distros (It''s realy usefull for hosting and scripting)'
+  - name: 'Hosting: Debian based Distros (Begin with LAMP and LEMP in last 10 years)'
     percent: 70%
   - name: Design
     percent: 80%
