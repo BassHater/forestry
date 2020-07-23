@@ -108,7 +108,7 @@ icon = "ti-youtube"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://pl.linkedin.com/in/viacheslav-shapovalov-29a55764/"
 [[params.social]]
 icon = "ti-dribbble"
 link = "#"
