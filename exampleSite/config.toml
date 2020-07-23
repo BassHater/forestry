@@ -12,13 +12,20 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
+[Languages.pl]
+contentDir = "content/polska"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
 home = "Glowna"
 languageCode = "pl-pl"
 languageName = "Pl"
 weight = 2
+[Languages.ru]
+contentDir = "content/russian"
+copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
+home = "Glowna"
+languageCode = "ru-ru"
+languageName = "Ru"
+weight = 3
 [[menu.main]]
 URL = "about"
 name = "about"
