@@ -18,5 +18,8 @@ skill:
   - name: 'SEO: Keyword planing, Semantic, Analyzing (Google Analytics, Yandex Metrics,
       SimilarWeb, Ahref). Best result: 50k unique/month on my website.'
     percent: 95%
-  - name: Android Development
+  - name: 'Hardware & Higload: Make balanced bare metal server/workstation, analyzing
+      and troubleshooting.'
     percent: 75%
+  - name: ''
+    percent: ''
