@@ -3,9 +3,9 @@ cta:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: This wall is a wall of Netguru office.
-  content: Now I am out. May be (I hope) I will inside and will see another pictures
-    and may be place near the windows.
+  title: And I'm ready to destroy this wall
+  content: Im understand, what in this world all thing have a cost. And I pay with
+    my time.
   button:
     enable: true
     label: Ready to invite me )
