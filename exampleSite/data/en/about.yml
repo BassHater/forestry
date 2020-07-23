@@ -3,13 +3,13 @@ about:
   enable: true
   title: About Me
   about_item:
-  - icon: ti-ruler-pencil
-    title: I must write a tons of code
-    content: Becouse only work make me smarter
-  - icon: ti-cup
-    title: I'm need to seek a real target
-    content: It's reduce my chance to make wrong choice
   - icon: ti-thought
     title: I thought a lot before making this decision
     content: It's not a new way for me, it's back to the reality. And I realy  happy
       about this challenge.In Python we trust.
+  - icon: ti-cup
+    title: I'm need to seek a real target
+    content: It's reduce my chance to make wrong choice
+  - icon: ti-ruler-pencil
+    title: I must write a tons of code
+    content: Becouse only work make me smarter
