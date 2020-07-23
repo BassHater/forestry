@@ -2,7 +2,8 @@
 skill:
   enable: true
   title: My Skills
-  subtitle: Is a not CV or resume, it is just list of used technology
+  subtitle: Is a not CV or resume, it is just list of used technology wich I used
+    from time to time
   content: |2-
 
     I've always tried to do the job myself. First, I kile it. Second it is always intrest me: How its work?, How thay made it?
