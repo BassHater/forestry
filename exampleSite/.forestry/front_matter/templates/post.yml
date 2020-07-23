@@ -23,4 +23,5 @@ fields:
   label: description
   description: meta description
 pages:
+- exampleSite/content/polska/blog/testujeme-razem-polska-wersja.md
 - exampleSite/i18n/polska-wersja.md
