@@ -13,7 +13,8 @@ skill:
     percent: 90%
   - name: 'Hosting: Debian based Distros (Begin with LAMP and LEMP in last 10 years)'
     percent: 70%
-  - name: 'CMS: SSR with MODx, Drupal, Wordpress (HUGO, Grav). '
+  - name: 'CMS: SSR with MODx, Drupal, Wordpress. SSG: HUGO, Grav. Now learn JAM Stack:
+      Django API and something headless.'
     percent: 80%
   - name: 'SEO: Keyword planing, Semantic, Analyzing (Google Analytics, Yandex Metrics,
       SimilarWeb, Ahref). Best result: 50k unique/month on my website.'
