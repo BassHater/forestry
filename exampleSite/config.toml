@@ -54,7 +54,7 @@ weight = 8
 [params]
 author = "Netguru-Hunter"
 description = "My way to get a job in NETGURU"
-google_analytics_id = ""
+google_analytics_id = "G-9H2DB79379"
 logo = "images/logo-path.png"
 post_share = true
 [params.map]
