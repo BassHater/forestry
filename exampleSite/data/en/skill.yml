@@ -8,8 +8,7 @@ skill:
     I've always tried to do the job myself. First, I kile it. Second it is always intrest me: How its work?, How thay made it?
   image: images/about/company-growth.webp
   skill_item:
-  - name: 'Graphical Skill: Corel, Photoshop, Illustrator. (Not Genius, but I know
-      this tool)'
+  - name: 'Graphical Skill: Corel, Photoshopr. (Not Genius, but I know this tool)'
     percent: 90%
   - name: Analysis
     percent: 70%
