@@ -1,5 +1,5 @@
 baseURL = "https://netguru.work"
-disableLanguages = []
+disableLanguages = ["ua"]
 disqusShortname = ""
 paginate = "12"
 summaryLength = "15"
