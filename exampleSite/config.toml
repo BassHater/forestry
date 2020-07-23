@@ -22,7 +22,7 @@ weight = 2
 [Languages.ru]
 contentDir = "content/russian"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
-home = "Glowna"
+home = "Главная"
 languageCode = "ru-ru"
 languageName = "Ru"
 weight = 3
