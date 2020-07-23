@@ -1,11 +1,11 @@
 ---
 about:
-  enable: false
+  enable: true
   title: About Us
   about_item:
   - icon: ti-ruler-pencil
-    title: I'm aspire to be Creative
-    content: 'Expirience, Positive view and Learning every time '
+    title: I must write a tons of code
+    content: Becouse only work make me smarter
   - icon: ti-cup
     title: I'm need to be responsible
     content: We make the world and World make Us
