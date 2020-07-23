@@ -8,7 +8,7 @@ funfacts:
     icon: ti-direction-alt
     count: "3"
   - title: Cyties I have worked in
-    icon: fa-building
+    icon: ti-direction-alt
     count: "9"
   - title: Positive feedback
     icon: ti-thumb-up
