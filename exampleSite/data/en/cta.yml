@@ -8,5 +8,5 @@ cta:
     my time.
   button:
     enable: true
-    label: Ready to invite me )
+    label: Run_
     link: "#contact"
