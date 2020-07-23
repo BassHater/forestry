@@ -5,7 +5,7 @@ funfacts:
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
   - title: Countries I have worked in
-    icon: ti-direction-alt
+    icon: ti-world
     count: "3"
   - title: Cyties I have worked in
     icon: ti-direction-alt
