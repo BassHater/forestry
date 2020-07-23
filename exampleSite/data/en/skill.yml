@@ -11,7 +11,7 @@ skill:
   skill_item:
   - name: 'Graphical Skill: Corel, Photoshopr. (Not Genius, but I know this tool)'
     percent: 90%
-  - name: Analysis
+  - name: 'Linux: Debian based Distros (It''s realy usefull for hosting and scripting)'
     percent: 70%
   - name: Design
     percent: 80%
