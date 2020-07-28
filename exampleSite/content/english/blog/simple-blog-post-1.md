@@ -25,7 +25,7 @@ How about this?
 
 ![Almost in home](/images/sunset_wlad.webp "Sunset in port")
 
-![View from shore](/images/wladyslawowo.webp =500x "Twilight port")
+![View from shore](/images/wladyslawowo.webp "Twilight port")
 
 (c) This photo from last returning from oil platform.
 
@@ -41,7 +41,7 @@ But main dream must be one.
 
 Cup of coffee and
 
-![Ready to learn Python for feature Netguru work](/images/uptodate.webp =500x "System up to date for netguru hunter")
+![Ready to learn Python for feature Netguru work](/images/uptodate.webp "System up to date for netguru hunter")
 
 ![Search work in Netguru](/images/pycharm.webp "Work for Netguru portfolio with Pycharm")
 
