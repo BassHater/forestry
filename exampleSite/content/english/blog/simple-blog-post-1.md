@@ -19,10 +19,11 @@ Life is a difficult things. If you planned to work from home, life get you new a
 
 How about this?
 
-![Not biggest Baltic waves](/images/wave.webp =500x "Baltic Waves")
+![Not biggest Baltic waves](/images/wave.webp "Baltic Waves")
+<img src="/images/wave.webp" alt="drawing" width="500"/>
 
 ![Sunset view from sea.](/images/sunset_panorama.webp =500x "Sunset")
-
+img src="//images/sunset_panorama.webp" alt=""Sunset"" width="500"/>
 ![Almost in home](/images/sunset_wlad.webp =500x "Sunset in port")
 
 ![View from shore](/images/wladyslawowo.webp =500x "Twilight port")
