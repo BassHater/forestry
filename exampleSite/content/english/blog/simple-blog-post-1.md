@@ -23,9 +23,9 @@ How about this?
 
 ![Sunset view from sea.](/images/sunset_panorama.webp | width=100 "Sunset")
 
-![Almost in home](/images/sunset_wlad.webp =500x "Sunset in port")
+![Almost in home](/images/sunset_wlad.webp "Sunset in port" | width=100)
 
-![View from shore](/images/wladyslawowo.webp =500x "Twilight port")
+![View from shore](/images/wladyslawowo.webp =500x "Twilight port" | width=100)
 
 (c) This photo from last returning from oil platform.
 
