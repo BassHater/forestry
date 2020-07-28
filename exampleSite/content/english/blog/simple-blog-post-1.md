@@ -38,6 +38,7 @@ And now:
 ![Dream about work in Netguru](/images/tanker.jpg "Dream about work in Netguru")
 
 But main dream must be one.
+Just another one step to get a job in Netguru.
 
 Cup of coffee and
 
