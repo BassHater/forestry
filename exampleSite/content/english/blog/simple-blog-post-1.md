@@ -19,29 +19,29 @@ Life is a difficult things. If you planned to work from home, life get you new a
 
 How about this?
 
-![Not biggest Baltic waves](/images/wave.webp "Baltic Waves")
+![Not biggest Baltic waves](/images/wave.webp =500x "Baltic Waves")
 
-![Sunset view from sea.](/images/sunset_panorama.webp "Sunset")
+![Sunset view from sea.](/images/sunset_panorama.webp =500x "Sunset")
 
-![Almost in home](/images/sunset_wlad.webp "Sunset in port")
+![Almost in home](/images/sunset_wlad.webp =500x "Sunset in port")
 
-![View from shore](/images/wladyslawowo.webp "Twilight port")
+![View from shore](/images/wladyslawowo.webp =500x "Twilight port")
 
 (c) This photo from last returning from oil platform.
 
 And now:
 
-![Just my thoughts is far away from here. Netguruuuuuuu save me.](/images/basket.webp "Escape from reality")
+![Just my thoughts is far away from here. Netguruuuuuuu save me.](/images/basket.webp =500x "Escape from reality")
 
-![My way to get a job in Netguru](/images/simple-equipment.webp "Just simple equipment for non-Netguru work")
+![My way to get a job in Netguru](/images/simple-equipment.webp =500x "Just simple equipment for non-Netguru work")
 
-![Dream about work in Netguru](/images/tanker.jpg "Dream about work in Netguru")
+![Dream about work in Netguru](/images/tanker.jpg =500x "Dream about work in Netguru")
 
 But main dream must be one.
 
-Cup of coffee and 
+Cup of coffee and
 
-![Ready to learn Python for feature Netguru work](/images/uptodate.webp "System up to date for netguru hunter")
+![Ready to learn Python for feature Netguru work](/images/uptodate.webp =500x "System up to date for netguru hunter")
 
 ![Search work in Netguru](/images/pycharm.webp "Work for Netguru portfolio with Pycharm")
 
