@@ -4,7 +4,7 @@ date: 2018-09-12T12:52:36.000+06:00
 image_webp: "/images/platform.webp"
 image: "/images/platform.jpg"
 author: Netguru Hunter
-description: This is meta description
+description: Netguru hunter. My way to get a job in NETGURU. First post.
 
 ---
 # If Netguru not hunt you, then You hunt the Netguru!
@@ -21,11 +21,11 @@ How about this?
 
 ![Not biggest Baltic waves](/images/wave.webp | width=100 "Baltic Waves")
 
-![Sunset view from sea.](/images/sunset_panorama.webp | width=100 "Sunset")
+![Sunset view from sea.](/images/sunset_panorama.webp | width=100px "Sunset")
 
 ![Almost in home](/images/sunset_wlad.webp "Sunset in port" | width=100)
 
-![View from shore](/images/wladyslawowo.webp =500x "Twilight port" | width=100)
+![View from shore](/images/wladyslawowo.webp =500x "Twilight port" {width=400px height=100px})
 
 (c) This photo from last returning from oil platform.
 
