@@ -19,23 +19,23 @@ Life is a difficult things. If you planned to work from home, life get you new a
 
 How about this?
 
-![Not biggest Baltic waves](/images/wave.webp | width=100 "Baltic Waves")
+![Not biggest Baltic waves](/images/wave.webp "Baltic Waves")
 
-![Sunset view from sea.](/images/sunset_panorama.webp | width=100px "Sunset")
+![Sunset view from sea.](/images/sunset_panorama.webp "Sunset")
 
-![Almost in home](/images/sunset_wlad.webp "Sunset in port" | width=100)
+![Almost in home](/images/sunset_wlad.webp "Sunset in port")
 
-![View from shore](/images/wladyslawowo.webp =500x "Twilight port" {width=400px height=100px})
+![View from shore](/images/wladyslawowo.webp =500x "Twilight port")
 
 (c) This photo from last returning from oil platform.
 
 And now:
 
-![Just my thoughts is far away from here. Netguruuuuuuu save me.](/images/basket.webp =500x "Escape from reality")
+![Just my thoughts is far away from here. Netguruuuuuuu save me.](/images/basket.webp "Escape from reality")
 
-![My way to get a job in Netguru](/images/simple-equipment.webp =500x "Just simple equipment for non-Netguru work")
+![My way to get a job in Netguru](/images/simple-equipment.webp "Just simple equipment for non-Netguru work")
 
-![Dream about work in Netguru](/images/tanker.jpg =500x "Dream about work in Netguru")
+![Dream about work in Netguru](/images/tanker.jpg "Dream about work in Netguru")
 
 But main dream must be one.
 
@@ -46,3 +46,5 @@ Cup of coffee and
 ![Search work in Netguru](/images/pycharm.webp "Work for Netguru portfolio with Pycharm")
 
 Netguru want to see my python code and no want to see my romantic voyage.
+
+And now i going to find how to resize image with netlify
