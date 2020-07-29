@@ -48,6 +48,7 @@ Just another one step to get a job in Netguru.
 
 Cup of coffee and
 
+
 ![Ready to learn Python for feature Netguru work](/images/uptodate.webp "System up to date for netguru hunter")
 
 ![Search work in Netguru](/images/pycharm.webp "Work for Netguru portfolio with Pycharm")
