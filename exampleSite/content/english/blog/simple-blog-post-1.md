@@ -17,9 +17,10 @@ Life is a difficult things. If you planned to work from home, life get you new a
 
    ## But it is always new challenges and... so romantic :
 
+
 How about this?
 {{<figure class="figure" style="width=300px">}}
-{{< figure src="/images/wave.webp" class="figure-img width=50%">}}444
+{{< figure src="/images/wave.webp" class="figure-img width=50%">}}555
  {{ <figcaption class="figure-caption">Not biggest Baltic waves.</figcaption>
 </figure>}}
 
