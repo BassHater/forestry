@@ -21,6 +21,7 @@ Life is a difficult things. If you planned to work from home, life get you new a
 How about this?
 {{<img src="/images/wave.webp" class=".img-fluid. max-width: 500px;">}}777
  
+ 
 
 ![Not biggest Baltic waves](/images/wave.webp "Baltic Waves" class="figure-img img-fluid rounded")
 
