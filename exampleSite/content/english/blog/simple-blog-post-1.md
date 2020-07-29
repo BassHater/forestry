@@ -20,7 +20,7 @@ Life is a difficult things. If you planned to work from home, life get you new a
 
 How about this?
 {{<figure class="figure" style="width=300px">}}
-{{< figure src="/images/wave.webp" class="figure-img width=50%">}}555
+{{< figure src="/images/wave.webp" class=".img-fluid. max-width: 50%;">}}666
  {{ <figcaption class="figure-caption">Not biggest Baltic waves.</figcaption>
 </figure>}}
 
