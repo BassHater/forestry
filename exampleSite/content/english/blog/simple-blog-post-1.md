@@ -19,9 +19,9 @@ Life is a difficult things. If you planned to work from home, life get you new a
 
 How about this?
 
-[<img src="/images/wave.webp" width="250"/>](/images/wave.webp)222
+{{< figure src="/images/wave.webp" class="figure-img img-fluid rounded">}}333
 
-![Not biggest Baltic waves](/images/wave.webp "Baltic Waves")
+![Not biggest Baltic waves](/images/wave.webp "Baltic Waves" class="figure-img img-fluid rounded")
 
 ![Sunset view from sea.](/images/sunset_panorama.webp "Sunset")
 
