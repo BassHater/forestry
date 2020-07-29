@@ -22,7 +22,8 @@ How about this?
 {{<img src="/images/wave.webp" class=".img-fluid. max-width: 500px;">}}777
  
  
-
+{{<img src="images/sunset_panorama.webp" class=".img-fluid. max-width: 500px;">}}777
+Sunset view from sea.
 ![Not biggest Baltic waves](/images/wave.webp "Baltic Waves" class="figure-img img-fluid rounded")
 
 ![Sunset view from sea.](/images/sunset_panorama.webp "Sunset")
