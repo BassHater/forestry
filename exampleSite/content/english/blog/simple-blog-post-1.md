@@ -19,6 +19,8 @@ Life is a difficult things. If you planned to work from home, life get you new a
 
 How about this?
 
+<img src="/images/wave.webp" width="300px">111
+
 ![Not biggest Baltic waves](/images/wave.webp "Baltic Waves")
 
 ![Sunset view from sea.](/images/sunset_panorama.webp "Sunset")
