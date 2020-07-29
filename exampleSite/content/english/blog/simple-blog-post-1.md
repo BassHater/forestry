@@ -9,6 +9,7 @@ description: Netguru hunter. My way to get a job in NETGURU. First post.
 ---
 # If Netguru not hunt you, then You hunt the Netguru!
 
+
 Life is a difficult things. If you planned to work from home, life get you new additional option:
 
 1. Forget about 500Mb/s fast internet. How to about 128kb/s non stable internet? Didn't give up?
