@@ -16,6 +16,7 @@ Life is a difficult things. If you planned to work from home, life get you new a
 2. Wish full-time 8 hour lessons and practice? Find time to learn Python after a 12 hour hard-work shift. Didn't give up?
 3. May be you want to devote a whole day to learning and practice? It's again not for  you. Only 7/7, from Monday to Sunday.
 
+
    ## But it is always new challenges and... so romantic :
 
 
