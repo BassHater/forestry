@@ -9,29 +9,21 @@ description: Netguru hunter. My way to get a job in NETGURU. First post.
 ---
 # If Netguru not hunt you, then You hunt the Netguru!
 
-
 Life is a difficult things. If you planned to work from home, life get you new additional option:
 
 1. Forget about 500Mb/s fast internet. How to about 128kb/s non stable internet? Didn't give up?
 2. Wish full-time 8 hour lessons and practice? Find time to learn Python after a 12 hour hard-work shift. Didn't give up?
 3. May be you want to devote a whole day to learning and practice? It's again not for  you. Only 7/7, from Monday to Sunday.
 
-
    ## But it is always new challenges and... so romantic :
-
 
 How about this?
 777
 
-{{<img src="/images/wave.webp" class=".img-fluid. max-width: 500px;">}}777
- 
- 
-{{<img src="images/sunset_panorama.webp" class=".img-fluid. max-width: 500px;">}}
-
 888
 Sunset view from sea.
 
-![Not biggest Baltic waves](/images/wave.webp "Baltic Waves" class="figure-img img-fluid rounded")
+!\[Not biggest Baltic waves\](/images/wave.webp "Baltic Waves" class="figure-img img-fluid rounded")
 
 ![Sunset view from sea.](/images/sunset_panorama.webp "Sunset")
 
@@ -53,7 +45,6 @@ But main dream must be one.
 Just another one step to get a job in Netguru.
 
 Cup of coffee and
-
 
 ![Ready to learn Python for feature Netguru work](/images/uptodate.webp "System up to date for netguru hunter")
 
