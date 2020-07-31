@@ -50,4 +50,5 @@ Cup of coffee and
 
 Netguru want to see my python code and no want to see my romantic voyage.
 
+
 And now i going to find how to resize image with netlify
