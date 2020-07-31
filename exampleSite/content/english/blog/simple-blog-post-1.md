@@ -18,9 +18,7 @@ Life is a difficult things. If you planned to work from home, life get you new a
    ## But it is always new challenges and... so romantic :
 
 How about this?
-777
 
-888
 Sunset view from sea.
 
 ![Not biggest Baltic waves\](/images/wave.webp "Baltic Waves" class="figure-img img-fluid rounded")
