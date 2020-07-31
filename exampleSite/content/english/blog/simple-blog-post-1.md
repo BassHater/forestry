@@ -23,7 +23,7 @@ How about this?
 888
 Sunset view from sea.
 
-!\[Not biggest Baltic waves\](/images/wave.webp "Baltic Waves" class="figure-img img-fluid rounded")
+![Not biggest Baltic waves\](/images/wave.webp "Baltic Waves" class="figure-img img-fluid rounded")
 
 ![Sunset view from sea.](/images/sunset_panorama.webp "Sunset")
 
